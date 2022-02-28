@@ -15,16 +15,8 @@ for window users
 python napster.py  
 ```
 
-# you get somewhat look like this one
  - if napster ask for url, kindly pass url like this one
  ``` https://us.napster.com/artist/art.39347166/album/alb.579051220/track/tra.579051761 ```
-```
->>> python3 napster.py
->>> https://us.napster.com/artist/art.39347166/album/alb.579051220/track/tra.579051761
->>> 1   SONG NAME
->>>     song name
->>>     DOWNLOADABLE LINK
->>>     urls of the song
 ```
 
 # prerequisite:
