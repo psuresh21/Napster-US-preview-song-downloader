@@ -5,7 +5,7 @@ import pprint
 
 
 
-print('welcome to preview song download form Napster')
+print('welcome to Napster-US-preview-song-downloader')
 print('Copyright (c) by Suresh Pandiyan')
 print(' ')
 ask_music_url = str(input('enter the playlist for get a downloadable links \n'))
