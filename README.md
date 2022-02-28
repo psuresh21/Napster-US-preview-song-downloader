@@ -17,7 +17,7 @@ python napster.py
 
  - if napster ask for url, kindly pass url like this one
  ``` https://us.napster.com/artist/art.39347166/album/alb.579051220/track/tra.579051761 ```
-```
+
 
 # prerequisite:
 python 3.6+
@@ -27,4 +27,5 @@ python 3.6+
 Code released under MIT License
 
 # Disclaimer
-program purpose only, I am not a reason for any wrong ways use of this Napster-US-preview-song-downloader, the risk is yours!!
+program purpose only, 
+I am not a reason for any wrong ways use of this Napster-US-preview-song-downloader, the risk is yours!!
